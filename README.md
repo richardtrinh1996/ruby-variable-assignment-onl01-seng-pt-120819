@@ -37,4 +37,4 @@ To solve this test failure, create a local variable `greeting` in the `variable.
 
 run learn
 
-
+greeting = "Hello World"
